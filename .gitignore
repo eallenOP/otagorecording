@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-_site
-.sass-cache
-.jekyll-metadata
-=======
 *.gem
 *.swp
 *~
@@ -26,4 +21,4 @@ pkg/
 site/_site/
 test/dest
 tmp/*
->>>>>>> a6766c19cc50ffe8a88d135b1860a0110025e6b8
+
