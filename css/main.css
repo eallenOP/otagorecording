@@ -1,4 +1,4 @@
-body {
+.container {
     margin: 60px auto;
     width: 70%;
 }
@@ -43,4 +43,10 @@ ul.posts li {
 }
 img.jumbo {
     width: 100%;
+}
+.push-right {
+    float: right;
+}
+.headertext {
+    color: white;
 }
